@@ -4,14 +4,14 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 ## To run the project
 
-Go to `cd server`, type `npm install` and run `node server.js`
+Go to `cd server`, type `npm install` and run `node server.js`\
 Go to `cd src`, type `npm install` and run `ng serve`
 
 ## Made with
 
-[Stripe](https://stripe.com/br)
-[Angular](https://angular.io/)
-[Express](https://expressjs.com/pt-br/)
+[Stripe](https://stripe.com/br)\
+[Angular](https://angular.io/)\
+[Express](https://expressjs.com/pt-br/)\
 [Tailwind](https://tailwindcss.com/)
 
 ## Build
